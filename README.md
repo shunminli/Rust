@@ -1,2 +1,2 @@
 # codeforces
-contest's solutions
+Learn rust by codeforces contests
